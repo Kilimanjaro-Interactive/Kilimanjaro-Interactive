@@ -56,3 +56,11 @@ footer {
         margin: 10px 0;
     }
 }
+
+.profile-pic {
+    width: 150px; /* Adjust as needed */
+    height: auto; /* Keeps the aspect ratio */
+    border-radius: 50%; /* Makes it a circle */
+    display: block; /* Centers the image */
+    margin: 0 auto; /* Centers the image */
+}
